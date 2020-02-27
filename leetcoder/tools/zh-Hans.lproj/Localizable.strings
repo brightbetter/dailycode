@@ -1,0 +1,143 @@
+/* 
+  Localizable.strings
+  leetcoder
+
+  Created by EricJia on 2019/7/30.
+  Copyright © 2019 EricJia. All rights reserved.
+*/
+
+"Problems" = "题库";
+"Problem" = "问题";
+"Tags" = "分类";
+"Profile" = "个人";
+"Editor" = "编辑器";
+"Language" = "语言";
+"Cancel" = "取消";
+"System" = "系统";
+
+
+"Solved Question" = "提交数";
+"Accepted Submission" = "通过数";
+"Acceptance Rate" = "通过率";
+"Settings" = "设置";
+"About" = "关于";
+"Feedback" = "反馈";
+"Sign out" = "退出登录";
+"Sign in" = "登录";
+"Loading. Please wait..." = "加载中, 请等待...";
+"Judging..." = "判断中...";
+"Sign in..." = "登录中...";
+"Sign in failed" = "登录失败";
+"Welcome" = "欢迎回来";
+"Programing Language" = "编程语言";
+"Font Size" = "字号";
+"Theme" = "主题";
+"likes" = "赞";
+"Discuss" = "讨论";
+"Detail" = "详情";
+"Author" = "作者";
+"Website" = "网站";
+"QQ Group" = "QQ群";
+"Editor load failed" = "编辑器加载中";
+"Reset" = "重置";
+"reset editor content" = "重置编辑器内容";
+"Hits" = "热题";
+"Languages" = "语言";
+"Rate" = "评分";
+"Something is wrong, This may be a premium problem" = "出错了, 这可能是个只对会员开放的题目";
+
+"Easy" = "简单";
+"Medium" = "中等";
+"Hard" = "困难";
+"Article" = "文章";
+"Submissions" = "提交历史";
+"Solve" = "解答";
+
+"Top Hits" = "热门推荐";
+"Topics" = "标签分类";
+"Top 100 Liked Questions" = "热题 HOT 100";
+"Top Interview Questions" = "精选 TOP 面试题";
+
+"Related Topics" = "相关标签";
+"Close Topics" = "隐藏标签";
+"Run" = "运行";
+"Submit" = "提交";
+
+"Status" = "状态";
+"Error" = "错误";
+"Diffculty" = "难度";
+"Todo" = "未做";
+"Solved" = "已解答";
+"Attempted" = "尝试过";
+"ID" = "题号";
+"Acceptance" = "接受率";
+
+"Input" = "输入";
+"Output" = "输出";
+"Expected" = "预期";
+"faster than" = "击败了";
+"less than" = "击败了";
+"TestCase" = "测试用例";
+"days" = "天";
+"weeks" = "周";
+"hours" = "小时";
+"months" = "月";
+"month" = "月";
+"minutes" = "分钟";
+"years" = "年";
+"passed" = "通过";
+"ago" = "前";
+"Runtime" = "运行时间";
+"Memory" = "内存用量";
+"Time Limit Exceeded" = "超出时间限制";
+"Accepted" = "通过";
+"Wrong Answer" = "解答错误";
+"Runtime Error" = "执行出错";
+"Compile Error" = "编译出错";
+
+"Password" = "密码";
+"Username or E-mail" = "用户名或邮箱";
+
+"Solutions" = "题解";
+"ID / Title" = "题号 / 标题";
+
+"All" = "全部";
+"Array" = "数组";
+"Dynamic Programming" = "动态规划";
+"Math" = "数学";
+"String" = "字符串";
+"Tree" = "树";
+"Hash Table" = "哈希表";
+"Depth-first Search" = "深度优先搜搜";
+"Binary Search" = "二分查找";
+"Greedy" = "贪心算法";
+"Two Pointers" = "双指针";
+"Stack" = "栈";
+"Breadth-first Search" = "广度优先搜索";
+"Backtracking" = "回朔算法";
+"Design" = "设计";
+"Linked List" = "链表";
+"Heap" = "堆";
+"Sort" = "排序";
+"Bit Manipulation" = "位运算";
+"Graph" = "图";
+"Union Find" = "并查集";
+"Divide and Conquer" = "分制算法";
+"Trie" = "字典树";
+"Sliding Window" = "滑动窗口";
+"Recursion" = "归队";
+"Segment Tree" = "线段树";
+"Ordered Map" = "";
+"Queue" = "队列";
+"Minimax" = "极小化极大";
+"Binary Indexed Tree" = "二叉搜索树";
+"Random" = "随机";
+"Topological Sort" = "拓扑排序";
+"Brainteaser" = "脑筋急转弯";
+"Geometry" = "几何";
+"Line Sweep" = "线扫";
+"Reservoir Sampling" = "蓄水池采样";
+"Rejection Sampling" = "拒绝采样";
+"Binary Search Tree" = "二叉搜索树";
+"Memoization" = "记忆";
+"Map" = "地图";
