@@ -1,4 +1,4 @@
-# DailyCode
+# 中文 | [English](https://github.com/ericjjj/dailycode/blob/master/README-EN.md)
 
 DailyCode 是原 App Store 上的一个 LeetCode iOS 客户端(评分4.8+)，已迭代十几个版本，因为第三方客户端都被下架，所以决定开源。
 
