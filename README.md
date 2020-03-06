@@ -43,4 +43,5 @@ GPL-3.0
 # 捐助
 
 如果对你有帮助， 不妨赞助一杯咖啡/奶茶/可乐/棒棒冰。
-![](https://ericjjjblog.oss-cn-beijing.aliyuncs.com/uPic/2020-03-06-12-39-57-2381583469571_.pic_hd.jpg)
+
+ <img src="https://ericjjjblog.oss-cn-beijing.aliyuncs.com/uPic/2020-03-06-12-39-57-2381583469571_.pic_hd.jpg" width = "200" height = "200" alt="图片名称" align=center />
