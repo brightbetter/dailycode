@@ -7,8 +7,6 @@
 //
 
 import UIKit
-import Bugly
-//import Firebase
 import IQKeyboardManagerSwift
 
 @UIApplicationMain
@@ -18,9 +16,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         self.window?.rootViewController = TabBartViewController()
-        print("当前语言 \(LanguageHelper.current())")
-//        FirebaseApp.configure()
-        Bugly.start(withAppId: "d8223043ec")
+        print("current language \(LanguageHelper.current())")
         FileCache.loadFile()
         IQKeyboardManager.shared.enable = true
         return true
